@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "EcoMug",
+      "price": 600,
+      "description": "многоразовая термокружка"
+    },
+    {
+      "id": "2",
+      "name": "SmartLight",
+      "price": 750,
+      "description": "умная лампочка с Wi-Fi"
+    },
+    {
+      "id": "3",
+      "name": "FitBand",
+      "price": 1099,
+      "description": "фитнес-браслет"
+    }
+  ]
+}
